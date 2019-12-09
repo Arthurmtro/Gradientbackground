@@ -24,3 +24,7 @@ h3 {
     text-transform: none;
     letter-spacing: .01em;
 }
+
+button {
+    padding: 0.4em;
+}
