@@ -1,3 +1,7 @@
+var _ = require('lodash');
+
+console.log(_);
+
 var css = document.querySelector("h3:nth-of-type(2)");
 var color1 = document.querySelector(".color1");
 var color2 = document.querySelector(".color2");
